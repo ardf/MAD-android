@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WallPaper Changer</string>
+    <string name="BtnText">Change Wallpaper</string>
+    <string name="headerText">Current Wallpaper</string>
+    <string name="Btn2Text">Set Default</string>
+
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Visiting_Card</string>
+    <string name="company_name">IDEA ROUTE</string>
+    <string name="logo_desc">Company logo</string>
+    <string name="profile_desc">Profile Picture</string>
+    <string name="prof_name">Ahamed Ruyefa</string>
+    <string name="prof_info">(2AB18CS004)</string>
+    <string name="contact">+91 9876 234321 ruyefadf@gmail.com https://www.github.com/ardf</string>
+    <string name="phone_icon">Phone Icon</string>
+    <string name="mail_icon">Mail Icon</string>
+    <string name="github_icon">Github Icon</string>
+
+
+
+
+</resources>

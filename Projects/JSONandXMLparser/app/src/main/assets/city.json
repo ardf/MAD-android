@@ -1,0 +1,23 @@
+{
+  "city_array" : [
+  {
+    "name": "Bhatkal",
+    "lat": "12.5",
+    "lon": "76.6",
+    "temp": "32",
+    "humidity": "95%"
+  },  {
+      "name": "Mangalore",
+      "lat": "14.5",
+      "lon": "78.6",
+      "temp": "33",
+      "humidity": "98%"
+    },  {
+      "name": "Udupi",
+      "lat": "13.5",
+      "lon": "77.6",
+      "temp": "31",
+      "humidity": "97%"
+    }
+]
+}

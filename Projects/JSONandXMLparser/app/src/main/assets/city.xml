@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<records>
+    <city>
+        <name>Kumta</name>
+        <lat>15.6</lat>
+        <lon>77.8</lon>
+        <temp>34</temp>
+        <humidity>98%</humidity>
+    </city>
+    <city>
+        <name>Honnavar</name>
+        <lat>17.8</lat>
+        <lon>78.4</lon>
+        <temp>32</temp>
+        <humidity>95%</humidity>
+    </city>
+</records>
